@@ -1,1 +1,2 @@
 PUSHING THE FILE INTO GIT REPOSITORY USING GITHUB DESKTOP
+Now pull the file from remote to local repo
